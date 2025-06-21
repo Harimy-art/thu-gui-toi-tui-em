@@ -1,0 +1,71 @@
+<!DOCTYPE html><html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Những lá thư</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fff8f0;
+      padding: 30px;
+      color: #333;
+    }
+    h1 {
+      color: #c76b6b;
+      text-align: center;
+    }
+    .thu {
+      margin-bottom: 40px;
+      padding: 20px;
+      border-radius: 16px;
+      background-size: cover;
+      background-position: center;
+      color: #fff;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    .thu h2 {
+      margin-top: 0;
+    }
+    .thu p {
+      white-space: pre-line;
+      font-size: 16px;
+      line-height: 1.6;
+    }
+    .huu-thang {
+      background-image: url('https://i.imgur.com/8ymHxAh.jpg'); /* nền có banh & cúp */
+    }
+    .cam-ly {
+      background-image: url('https://i.imgur.com/jmDgYHY.jpg'); /* hoa cẩm tú cầu màu hồng */
+    }
+    .thao-vy {
+      background-image: url('https://i.imgur.com/z5ZJbmy.jpg'); /* hoa hồng */
+    }
+    .gia-khang {
+      background-image: url('https://i.imgur.com/CVn5CSg.jpg'); /* cầu lông + huy chương */
+    }
+    audio {
+      display: block;
+      margin: 20px auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>🌸 Những lá thư 🌸</h1>  <audio controls autoplay loop>
+    <source src="https://docs.google.com/uc?export=download&id=1NGTqrsXz6w1CuGi59gLOOyG9zBrplziA" type="audio/mpeg">
+    Trình duyệt của bạn không hỗ trợ phát nhạc.
+  </audio>  <div class="thu huu-thang">
+    <h2>💌 Gửi Hữu Thắng</h2>
+    <p>Chúc mừng em trai đã chính thức tốt nghiệp!
+Một chặng đường thanh xuân đã khép lại, để nhường chỗ cho một hành trình mới – trưởng thành hơn, bản lĩnh hơn. Em đã vượt qua những ngày ô. thi căng thẳng thì chẳng có lý do nào mà em không vượt qua đc kì thi sắp tới hết đúng hong? Chơi với nhau cũng lâu rùii nên chắc chị hỏng cần phải dài dòng làm gì nhm em cũng sẽ hiểu ý chị muốn nói heheh. Chỉ chúc em luôn luôn tự tin, giữ lạc quan trong lúc thi thui. Dù kết quả có ra sao thì em cũng đã cố gắng hết sức ròii. Mong điểm số của em sẽ chiến thắng tất cả như tên " Hữu Thắng " của em nha🍀🍀</p>
+  </div>  <div class="thu cam-ly">
+    <h2>💌 Gửi Cẩm Ly xinh gái</h2>
+    <p>Chào em, chị My nè! Vậy là chặng đường thanh cấp 3 của em đã khép lại - cũng như khép lại trang sách cuối cùng của thời học sinh. Chị biết để đi được đến ngày hôm nay, em đã cố gắng rất nhiều. Tuy chỉ mới biết em cùng lúc với bé Vy nhưng em với Vy như 2 đứa em gái trong nhà của chị vậy, chị thật sự rất quý 2 đứa. Với chị em là 1 cô bé xinh xắn với đôi mắt siêu đẹp. Vừa tốt bụng, vừa lễ phép qua những lần tâm sự với em chị cảm thấy em là 1 cô bé hơi ovtk chút chút. Điểm này thì em giống chị kk. Sắp thi rồi - sắp bước vào cột mốc quan trọng đầu tiên trong cuộc đời của em, chị mong em hãy bình tĩnh, tin vào bản thân mình. Đừng tạo áp lực cho bản thân quá nha. Ăn no ngủ kĩ để có sức khoẻ thi thật tốt. Mong điểm thi của em thật rực rỡ như nụ cười của em🌷🩷 Do your best!!</p>
+  </div>  <div class="thu thao-vy">
+    <h2>💌 Gửi Thảo Vy xinh yêu</h2>
+    <p>Chúc Thảo Vy đẹp gái của chị thi thật tốt, đậu NV1 nhé em! Cho dù kết quả thi như nào, thì hãy nhớ rằng những ngày tháng ôn thi đến khuya, những lần nhìn vào đề mà không biết làm bài cho tới hôm nay em thật sự đã rất giỏi ròi. Nên hãy đón nhận kết quả một cách tích cực nhất có thể nha bé. Đối với chị em là một đứa em siêu đáng yêu, những lúc nói chuyện với em chị k thể nào k cười đc hết kk. Cái năng lượng tích cực đó của em lúc nào cũng lan tỏa được với chị hết. Mặc dù chỉ mới thân nhau từ năm ngoái thôi, nhưng cách em ăn ủi, động viên chị mỗi khi chị buồn chị thật sự rất quý em . Nên chị mong rằng em hãy học thật giỏi, sống thật hạnh phúc. Sau này đi làm kiếm đc nhiều tiền rồi mấy chị em mình đi du lịch với nhau sau ha. Đặc biệt là vẫn phải giữ đc sự hồn nhiên và nụ cười của khoảng thời gian này nha. Yêu em💐🩷</p>
+  </div>  <div class="thu gia-khang">
+    <h2>💌 Gửi Gia Khang</h2>
+    <p>Hello em, lâu ròi hong nch nên chị cũng k biết dạo này cuộc sống của em có ổn hong, nhm chị nghĩ chắc là ổn mà ha. Em sắp thi ròi, tới g này thì kiến thức cũng nắm chắc để lấy thủ khoa như em nói với chị hồi đó chưa kk. Em có đọc thì chị viết lá thư này cũng chỉ để chúc mừng em đã hoàn thành 12 năm đèn sách, đã cố gắng để đi đến ngày hôm nay. Chúc em sắp tới thi kết quả thật tốt, dù kết quả như thế nào thì cũng hãy tự hào vì đó là công sức của em nha. Mong em sau này cuộc đời lúc nào cũng hạnh phúc và tỏa sáng như nụ cười của em vậy🍀</p>
+  </div>
+</body>
+</html>
